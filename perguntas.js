@@ -1,71 +1,71 @@
 criaCartao(
-    'Cachorrinhos',
-    'Qual é a raça de cachorro mais pequena do mundo',
-    'O Chihuahua.'
+    'Conexão Campo-Cidade',
+    'Como o software liga o produtor rural ao comprador urbano?',
+    'Através de marketplaces e aplicativos de venda direta.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual é a raça de cachorro considerada a mais inteligente?',
-    'O Border Collie.'
+    'Conexão Campo-Cidade',
+    'Qual tecnologia garante a procedência do alimento na cidade?',
+    ' Rastreabilidade digital via QR Code.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual raça é famosa por ser salva-vidas nas montanhas suíças?',
-    'O São Bernardo.'
+    'Conexão Campo-Cidade',
+    'Como a TI reduz o desperdício no transporte de alimentos?',
+    'Otimizando rotas de entrega e prazos com GPS.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual cachorro é conhecido como “o gigante gentil”?',
-    'O Dogue Alemão.'
+    'Conexão Campo-Cidade',
+    'De que forma a cidade apoia o desenvolvimento tecnológico do agro?',
+    'Criando softwares e hardwares em polos de inovação urbanos.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual raça foi criada para caçar ratos em minas e fábricas?',
-    'O Terrier.'
+    'Tecnologia & Agro Forte',
+    'Como sensores IoT fortalecem o gerenciamento da lavoura?',
+    'Monitorando a umidade do solo em tempo real.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual era a raça preferida da Rainha Elizabeth II?',
-    'O Corgi.'
+    'Tecnologia & Agro Forte',
+    ' Qual a função dos drones no agro moderno?',
+    'Mapear falhas de plantio e focos de pragas.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual raça japonesa é símbolo de lealdade e inspirou o filme “Hachiko”?',
-    'O Akita Inu.'
+    'Tecnologia & Agro Forte',
+    ' Como a inteligência artificial ajuda a prever a colheita?',
+    'Analisando dados climáticos e histórico da plantação.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual cachorro é famoso por suas dobras na pele e rosto enrugado?',
-    'O Shar Pei.'
+    'Tecnologia & Agro Forte',
+    'O que a automação substitui no trabalho rural?',
+    'Tarefas manuais e repetitivas por monitoramento digital.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual raça é conhecida por ter a língua azulada?',
-    'O Chow Chow.'
+    'Sustentabilidade (ESG)',
+    'Como a tecnologia prova o compromisso ecológico do agro?',
+    'Emitindo certificados digitais de pegada de carbono.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual raça tem fama de ser “cão de guarda brasileiro”?',
-    'O Fila Brasileiro.'
+    'Sustentabilidade (ESG)',
+    'O que evita o uso excessivo de água na lavoura?',
+    'Sistemas automáticos de irrigação de precisão.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual cachorro é usado como guia para pessoas cegas em muitos países?',
-    'O Labrador Retriever..'
+    'Sustentabilidade (ESG)',
+    'Como satélites protegem as áreas de preservação ambiental?',
+    'Alertando sobre desmatamentos e focos de incêndio.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual é a raça com olfato mais poderoso, usada em resgates e farejamentos?',
-    'O Bloodhound.'
+    'Sustentabilidade (ESG)',
+    ' Qual o maior desafio na segurança do agro digital?',
+    'Proteger os sistemas de máquinas conectadas contra hackers.'
 )
